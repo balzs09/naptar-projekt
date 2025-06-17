@@ -1,0 +1,349 @@
+﻿  Datum.cpp
+  Naptar.cpp
+  MEMTRACE NOT DEFINED
+C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33): error C2679: binary '<<': no operator found which takes a right-hand operand of type 'T1' (or there is no acceptable conversion)
+C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33): error C2679:         with
+C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33): error C2679:         [
+C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33): error C2679:             T1=Datum
+C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33): error C2679:         ]
+  (compiling source file 'Naptar.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(480,39):
+      could be 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)': cannot convert argument 2 from 'T1' to 'std::basic_streambuf<char,std::char_traits<char>> *'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(448,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)': cannot convert argument 2 from 'T1' to 'const void *'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(430,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)': cannot convert argument 2 from 'T1' to 'long double'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(412,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)': cannot convert argument 2 from 'T1' to 'double'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(394,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)': cannot convert argument 2 from 'T1' to 'float'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(376,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)': cannot convert argument 2 from 'T1' to 'unsigned __int64'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(358,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)': cannot convert argument 2 from 'T1' to '__int64'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(340,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)': cannot convert argument 2 from 'T1' to 'unsigned long'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(322,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)': cannot convert argument 2 from 'T1' to 'long'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(303,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)': cannot convert argument 2 from 'T1' to 'unsigned int'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(277,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)': cannot convert argument 2 from 'T1' to 'int'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(258,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)': cannot convert argument 2 from 'T1' to 'unsigned short'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(224,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)': cannot convert argument 2 from 'T1' to 'short'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(206,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)': cannot convert argument 2 from 'T1' to 'bool'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(200,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))': cannot convert argument 2 from 'T1' to 'std::ios_base &(__cdecl *)(std::ios_base &)'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(194,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))': cannot convert argument 2 from 'T1' to 'std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &)'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(189,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))': cannot convert argument 2 from 'T1' to 'std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &)'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(3408,32):
+      or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'T1'
+          with
+          [
+              T1=Datum
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(1976,32):
+      or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)': could not deduce template argument for 'const std::shared_ptr<_Ty> &' from 'T1'
+          with
+          [
+              T1=Datum
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(3756,32):
+      or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)': could not deduce template argument for 'const std::unique_ptr<_Ty2,_Dx2> &' from 'T1'
+          with
+          [
+              T1=Datum
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(688,32):
+      or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+          'initializing': cannot convert from 'T1' to 'const char *'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(732,32):
+      or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+          'initializing': cannot convert from 'T1' to 'char'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(768,31):
+      or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+          'initializing': cannot convert from 'T1' to 'const char *'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(813,31):
+      or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+          'initializing': cannot convert from 'T1' to 'char'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(851,32):
+      or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)': could not deduce template argument for 'const _Elem *' from 'T1'
+          with
+          [
+              T1=Datum
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(894,32):
+      or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)': template parameter '_Elem' is ambiguous
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+              could be 'T1'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+              or       'char'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)': could not deduce template argument for '_Elem' from 'T1'
+          with
+          [
+              T1=Datum
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(930,31):
+      or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+          'initializing': cannot convert from 'T1' to 'const signed char *'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(936,31):
+      or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+          'initializing': cannot convert from 'T1' to 'signed char'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(941,31):
+      or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+          'initializing': cannot convert from 'T1' to 'const unsigned char *'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(947,31):
+      or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+          'initializing': cannot convert from 'T1' to 'unsigned char'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(1005,9):
+      or       '_Ostr &&std::operator <<(_Ostr &&,const _Ty &)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+          '_Ostr &&std::operator <<(_Ostr &&,const _Ty &)': could not deduce template argument for '__formal'
+              C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(1004,103):
+              '<template-parameter>': you cannot create a pointer to a reference
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\__msvc_ostream.hpp(1031,32):
+      or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)'
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+          'initializing': cannot convert from 'T1' to 'const std::error_code &'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              Reason: cannot convert from 'T1' to 'const std::error_code'
+          with
+          [
+              T1=Datum
+          ]
+              C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,54):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+      while trying to match the argument list '(std::basic_ostream<char,std::char_traits<char>>, T1)'
+          with
+          [
+              T1=Datum
+          ]
+      C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\gtest_lite.h(346,33):
+      the template instantiation context (the oldest one first) is
+          C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\Naptar.cpp(94,6):
+          see reference to function template instantiation 'std::ostream &gtest_lite::EXPECT_<Datum,Datum>(T1,T2,bool (__cdecl *)(T1,T1),const char *,int,const char *,const char *,const char *)' being compiled
+          with
+          [
+              T1=Datum,
+              T2=Datum
+          ]
+  
+  Generating Code...
+C:\Users\nagya\programozas\prog2_hf\Naptar\Naptar\Datum.cpp(164,1): error C4716: 'operator<<': must return a value

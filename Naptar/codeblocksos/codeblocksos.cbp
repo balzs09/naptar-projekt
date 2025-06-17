@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="codeblocksos" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/codeblocksos" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/codeblocksos" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../Naptar/Abs_Naptar.cpp" />
+		<Unit filename="../Naptar/Abs_Naptar.h" />
+		<Unit filename="../Naptar/Datum.cpp" />
+		<Unit filename="../Naptar/Datum.h" />
+		<Unit filename="../Naptar/Esemeny.cpp" />
+		<Unit filename="../Naptar/Esemeny.h" />
+		<Unit filename="../Naptar/Eves_Naptar.cpp" />
+		<Unit filename="../Naptar/Eves_Naptar.h" />
+		<Unit filename="../Naptar/Honapos_Naptar.cpp" />
+		<Unit filename="../Naptar/Honapos_Naptar.h" />
+		<Unit filename="../Naptar/Naptar.cpp" />
+		<Unit filename="../Naptar/memtrace.cpp" />
+		<Unit filename="../Naptar/memtrace.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

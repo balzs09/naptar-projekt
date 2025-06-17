@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1742318750 source:c:\users\nagya\programozas\prog2_hf\naptar\naptar\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1742318750 c:\users\nagya\programozas\prog2_hf\naptar\naptar\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+
+1748026296 source:c:\users\nagya\programozas\prog2_hf\naptar\naptar\abs_naptar.cpp
+	<iostream>
+	"Abs_Naptar.h"
+	"Datum.h"
+	"Esemeny.h"
+
+1748026907 c:\users\nagya\programozas\prog2_hf\naptar\naptar\abs_naptar.h
+	<iostream>
+	"memtrace.h"
+	"Datum.h"
+	"Esemeny.h"
+	<stdexcept>
+	<sstream>
+
+1748026296 c:\users\nagya\programozas\prog2_hf\naptar\naptar\datum.h
+	<iostream>
+	<string>
+	<stdexcept>
+	<sstream>
+
+1748026296 c:\users\nagya\programozas\prog2_hf\naptar\naptar\esemeny.h
+	"Datum.h"
+	<string>
+
+1748026907 source:c:\users\nagya\programozas\prog2_hf\naptar\naptar\datum.cpp
+	"Datum.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1748026296 source:c:\users\nagya\programozas\prog2_hf\naptar\naptar\esemeny.cpp
+	<iostream>
+	<string>
+	"Esemeny.h"
+	"Datum.h"
+
+1748026472 source:c:\users\nagya\programozas\prog2_hf\naptar\naptar\eves_naptar.cpp
+	<iostream>
+	<iomanip>
+	"Eves_Naptar.h"
+	"Honapos_Naptar.h"
+	"Abs_Naptar.h"
+
+1748026296 c:\users\nagya\programozas\prog2_hf\naptar\naptar\eves_naptar.h
+	<iostream>
+	<string>
+	"Abs_Naptar.h"
+	"Datum.h"
+	"Honapos_Naptar.h"
+	"memtrace.h"
+
+1748026296 source:c:\users\nagya\programozas\prog2_hf\naptar\naptar\honapos_naptar.cpp
+	"Honapos_Naptar.h"
+	"Datum.h"
+	<string>
+	<iostream>
+	<iomanip>
+
+1748026296 c:\users\nagya\programozas\prog2_hf\naptar\naptar\honapos_naptar.h
+	<iostream>
+	"Abs_Naptar.h"
+	<string>
+
+1748027609 source:c:\users\nagya\programozas\prog2_hf\naptar\naptar\naptar.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	<fstream>
+	<locale>
+	<iomanip>
+	<fstream>
+	"memtrace.h"
+	"Datum.h"
+	"Esemeny.h"
+	"Abs_Naptar.h"
+	"Eves_Naptar.h"
+	"Honapos_Naptar.h"
+	"gtest_lite.h"
+	<windows.h>
+
+1744296621 c:\users\nagya\programozas\prog2_hf\naptar\naptar\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+

@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1745172417 source:c:\users\nagya\programozas\prog2_hf\naptar\naptar\codeblocksos\abs_naptar.cpp
+	"Abs_Naptar.h"
+
+1745790828 c:\users\nagya\programozas\prog2_hf\naptar\naptar\codeblocksos\abs_naptar.h
+	<iostream>
+	"memtrace.h"
+	"Datum.h"
+	"Esemeny.h"
+	<stdexcept>
+
+1742318750 c:\users\nagya\programozas\prog2_hf\naptar\naptar\codeblocksos\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+
+1745790029 c:\users\nagya\programozas\prog2_hf\naptar\naptar\codeblocksos\datum.h
+	<iostream>
+	<string>
+
+1745790828 c:\users\nagya\programozas\prog2_hf\naptar\naptar\codeblocksos\esemeny.h
+	<iostream>
+	"Datum.h"
+	<string>
+
+1745350301 source:c:\users\nagya\programozas\prog2_hf\naptar\naptar\codeblocksos\datum.cpp
+	"Datum.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1745172417 source:c:\users\nagya\programozas\prog2_hf\naptar\naptar\codeblocksos\esemeny.cpp
+	"Esemeny.h"
+
+1745790029 source:c:\users\nagya\programozas\prog2_hf\naptar\naptar\codeblocksos\eves_naptar.cpp
+	"Eves_Naptar.h"
+	<iostream>
+
+1745790563 c:\users\nagya\programozas\prog2_hf\naptar\naptar\codeblocksos\eves_naptar.h
+	<iostream>
+	"Abs_Naptar.h"
+
+1745350466 source:c:\users\nagya\programozas\prog2_hf\naptar\naptar\codeblocksos\honapos_naptar.cpp
+	"Honapos_Naptar.h"
+	<string>
+
+1745790563 c:\users\nagya\programozas\prog2_hf\naptar\naptar\codeblocksos\honapos_naptar.h
+	<iostream>
+	"Abs_Naptar.h"
+	<string>
+
+1745850138 source:c:\users\nagya\programozas\prog2_hf\naptar\naptar\codeblocksos\main.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	"Datum.h"
+	"Esemeny.h"
+	"Abs_Naptar.h"
+	"Eves_Naptar.h"
+	"Honapos_Naptar.h"
+
+1742318750 source:c:\users\nagya\programozas\prog2_hf\naptar\naptar\codeblocksos\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
